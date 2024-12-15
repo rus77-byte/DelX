@@ -11,3 +11,8 @@ DelX — это [краткое описание проекта, наприме�
 - 🔒 Возможность 3
 
 ## Установка
+
+```bash
+git clone https://github.com/rus77-byte/DelX.git
+cd DelX
+pip install -r requirements.txt
