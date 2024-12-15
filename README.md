@@ -19,8 +19,6 @@ pip install -r requirements.txt
 
 ## Как использовать
 
-Запусти скрипт следующим образом:
-
 ```bash
 python main.py --option
 
